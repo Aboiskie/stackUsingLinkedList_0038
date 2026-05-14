@@ -23,4 +23,7 @@ private:
 public:
     stack()
     {
-       
+        top = NULL;
+    }
+
+    
