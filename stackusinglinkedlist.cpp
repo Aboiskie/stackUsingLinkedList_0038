@@ -36,4 +36,7 @@ public:
         return value;
     }
 
-    
+    void pop()
+    {
+        if (isEmpty())
+        
