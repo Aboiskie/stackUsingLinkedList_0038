@@ -10,4 +10,7 @@ public:
 
     Node()
     {
-        
+        next = NULL;
+    }
+};
+
